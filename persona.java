@@ -12,3 +12,7 @@ public void setApellido(string apellido){
 
 }
 
+public String getName(int id){
+	return name;
+
+}
