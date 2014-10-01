@@ -6,3 +6,9 @@ public void setName(string name){
 	this.Nombre = name;
 
 }
+
+
+public String getName(int id){
+	return name;
+
+}
